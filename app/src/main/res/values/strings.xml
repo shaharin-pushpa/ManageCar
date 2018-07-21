@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManageCar</string>
+    <string name="search_hint">Car Type,Model</string>
+</resources>
